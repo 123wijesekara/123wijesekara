@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Dinithi Wijesekara
+ 👋 Hi, I'm Dinithi Wijesekara
 
 Passionate software developer dedicated to creating innovative and efficient web and mobile applications.
 
 ---
 
-##  About Me
+  About Me
 I am a passionate software developer from the University of Moratuwa with strong teamwork and leadership skills. I enjoy applying my knowledge to contribute to innovative solutions while continuously growing professionally.
 
 
